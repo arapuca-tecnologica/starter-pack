@@ -1,25 +1,26 @@
 # starter-pack
 
-Seja Bem Vindo (a), ao **Arapuca Tecnologica** 
+Seja Bem Vindo (a), ao **Arapuca Tecnológica** 🐸
 
 ## Índice
 
-1. Por onde começar?
-   1. Boas Vindas
-   2. Objetivo
-   3. Lema
-2. Materiais de Estudo
-   1. Livros
-   2. Vídeos
-3. Outros
+1. [Por onde começar?](#por-onde-começar?)
+   1. [Boas Vindas](#boas-vindas)
+   2. [Objetivos](#objetivos)
+   3. [Lema](#lema)
+2. [Materiais de Estudo](#materiais-de-estudo)
+   1. [Livros](#livros)
+   2. [Vídeos](#videos)
+3. [Outros](#outros)
+   1. [Blogs](#blogs)
 
 
-## 1. Por onde começar?
-### 1. Boas Vindas
-### 2. Objetivo
-### 3. Lema
-## 1. Materiais de Estudo
-### 1. Livros
-### 2. Vídeos
-## 3. Outros
-### 1. Blogs
+## Por onde começar?
+### Boas Vindas
+### Objetivos
+### Lema
+## Materiais de Estudo
+### Livros
+### Vídeos
+## Outros
+### Blogs
