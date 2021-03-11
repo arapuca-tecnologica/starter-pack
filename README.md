@@ -22,7 +22,7 @@ Seja Bem Vindo (a), ao **Arapuca Tecnológica** 🐸
 
 [Blogs](#blogs)
 
-[Como Contribuir 💻](#como-contribuir-💻)
+[Como Contribuir](#como-contribuir)
 
 
 ## Por onde começar?
@@ -34,6 +34,6 @@ Seja Bem Vindo (a), ao **Arapuca Tecnológica** 🐸
 ### Vídeos
 ## Outros
 ### Blogs
-# Como Contribuir 💻
+# Como Contribuir
 Para contribuir com este projeto [Starter Pack 🐸](https://github.com/arapuca-tecnologica/starter-pack) basta fazer um *fork* do repositório, fazer as mudanças com as suas contribuições e mandar o *Pull Request* que será aceito por um dos responsáveis. 
 
