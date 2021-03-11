@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+
+  if (tem viado lendo){
+    cout<<"Comi o cu do viado";
+  }
+}
+  
